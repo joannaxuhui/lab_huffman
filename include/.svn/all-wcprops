@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include
+END
+printtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/printtree.h
+END
+binary_file_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/binary_file_writer.h
+END
+encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/encoder.h
+END
+frequency.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/frequency.h
+END
+huffman_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/huffman_tree.h
+END
+binary_file_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/binary_file_reader.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/include/decoder.h
+END

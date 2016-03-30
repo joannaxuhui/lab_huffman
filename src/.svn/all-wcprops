@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src
+END
+binary_file_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/binary_file_writer.cpp
+END
+encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/encoder.cpp
+END
+frequency.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/frequency.cpp
+END
+huffman_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/su15-cs225/!svn/ver/5818/huixu5/lab_huffman/src/huffman_tree.cpp
+END
+binary_file_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/binary_file_reader.cpp
+END
+decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/decoder.cpp
+END
+encoder_prog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/encoder_prog.cpp
+END
+print_as_ascii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/print_as_ascii.cpp
+END
+decoder_prog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/su15-cs225/!svn/ver/5404/huixu5/lab_huffman/src/decoder_prog.cpp
+END
